@@ -30,7 +30,7 @@ cd <REPO_NAME>
 yarn install
 ```
 
-#### Vá para o arquivo "index.js" e descomente os métodos que deseja executar e rode o arquivo
+#### Vá para o arquivo "index.js", descomente os métodos que deseja executar e rode o arquivo
 ```bash
 node index.js
 ```
