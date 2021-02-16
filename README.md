@@ -29,6 +29,7 @@ The following tools were used in the construction of the project:
 - [NodeJS](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [SQLite](https://www.sqlite.org/index.html)
+- [Axios](https://www.npmjs.com/package/axios)
 
 ## :computer: Executando o projeto
 
