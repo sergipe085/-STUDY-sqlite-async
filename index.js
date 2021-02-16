@@ -7,7 +7,7 @@ const getDataFromApi = require('./axios');
 // deleteTeste(18);
 // consultarTeste();
 
-// getDataFromApi().then(response => {
-//   console.log(response);
-//   saveTeste({value: "fejaoaaa"})
-// })
+getDataFromApi().then(response => {
+  console.log(response.data);
+  saveTeste({value: "fejaoaaa"})
+})
