@@ -14,9 +14,17 @@
 
 ---
 
+## 📚 Sobre
+
+Um estudo sobre adicionar, remover e listar dados de uma api  em um bando de dados sqlite
+
+A study on adding, removing and listing data from an api in a sqlite database
+
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
+
+The following tools were used in the construction of the project:
 
 - [NodeJS](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
@@ -24,18 +32,18 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## :computer: Executando o projeto
 
-#### Instale as dependências
+#### Instale as dependências (Install the dependencies)
 ```bash
 cd <REPO_NAME>
 yarn install
 ```
 
-#### Vá para o arquivo "index.js", descomente os métodos que deseja executar e rode o arquivo
+#### Vá para o arquivo "index.js", descomente os métodos que deseja executar e rode o arquivo (Go to the "index.js" file, uncomment the methods you want to execute and run the file)
 ```bash
 node index.js
 ```
 
-## 🤝 Contribuindo 
+## 🤝 Contribuindo (Contributing) 
 
 Todo tipo de contribuição é bem-vinda, nós admiramos isso!
 
