@@ -6,4 +6,4 @@ const getDataFromApi = async (req, res, next) => {
   });
 }
 
-module.exports = axiosMiddleWare;
+module.exports = getDataFromApi;

@@ -5,4 +5,5 @@ module.exports = async function consultarTeste() {
 
   const result = await db.all(`SELECT * FROM testes`);
   console.log(result);
+  return result;
 }
