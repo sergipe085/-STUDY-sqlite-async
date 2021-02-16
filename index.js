@@ -4,8 +4,8 @@ const consultarTeste = require('./src/database/consultarTeste');
 
 const getDataFromApi = require('./axios');
 
-deleteTeste(18);
-consultarTeste();
+//deleteTeste(18);
+//consultarTeste();
 
 // getDataFromApi().then(response => {
 //   console.log(response.coord);
